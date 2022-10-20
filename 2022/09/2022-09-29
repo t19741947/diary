@@ -1,0 +1,47 @@
+2022-09-29
+上午 
+安装pytorch
+按昨天学长所讲下载fairseq
+9：00-11：50 算法 第三课
+中午
+吃饭，做核酸，午睡。
+（并不能睡着。座位就在饮水机和打印机旁。学长们似乎真的很爱喝水。）
+
+1：00-（安装等待时间复习：算法00归纳）
+再次安装fairseq
+切换data，激活环境，重下
+2：50-
+一直在Installing build dependencies
+学长帮忙加了清华镜像，重新install
+3：00
+报错 
+pip._vendor.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='pypi.tuna.tsinghua.edu.cn', port=443): Read timed out.
+3：00
+用pip  --default-timeout=100 install --editable ./ -i https://pypi.tuna.tsinghua.edu.cn/simple 重新安装
+3：10
+报错，Read timed out
+pip --default-timeout=100 install --editable ./
+（推测：实验室电脑没有无线网卡，只能连校园网，校园网速度慢且不稳定）
+3：40
+pip install fairseq装完了
+学长说应该没装好。但是已经可以import torch了，就入门够了。
+让学习吴恩达机器学习。
+调整clash
+4：10
+买了得花钱。还是去b站看吴恩达机器学习。等要用再买吧。
+4：50
+用自己的lantern下octave 50kb/s
+用试用的clash订阅 150-3000
+emmmm，横竖试用1个G。用完再买吧
+
+吃饭 5.5+15+11
+
+8:00
+复习完第三部分线性代数。
+机器学习这些东西上次学还是大二的时候。
+啊，美丽的茜茜公主！
+
+-9：10
+跑步锻炼 洗澡1
+-10：30
+宿舍讨论组合数学
